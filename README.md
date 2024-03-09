@@ -40,9 +40,8 @@
     <h2>Contributing</h2>
     <p>Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please
         feel free to open an issue or submit a pull request.</p>
-   
    <h2>Contact</h2>
-    <p>If you have any questions or feedback, you can reach out to the project maintainer at chandnamanan2004@gmail.com</p>
+    <p>If you have any questions or suggestions regarding this project, feel free to contact me via <a href="https://www.linkedin.com/in/manan-chandna-697588257/">LinkedIn</a>.</p>
 </body>
 
 </html>
