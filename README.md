@@ -1,4 +1,5 @@
-![image](https://github.com/MananChandna/MLprocessesUsingIrisdataset/assets/139998502/5eeae380-5ad8-4c77-a576-54cf195dfb7a)
+![image](https://github.com/MananChandna/MLprocessesUsingIrisdataset/assets/139998502/eb57561b-d7e8-4618-a39d-d2d7b3ad97e3)
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -6,7 +7,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ML Processes Using Iris Dataset</title>
 </head>
 
 <body>
